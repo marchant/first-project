@@ -15,7 +15,6 @@ exports.Main = Component.specialize(/** @lends Main# */ {
         }
     },
     defaultValue: {
-        
         value: "World"
     }
 });
